@@ -48,4 +48,3 @@ Primeiro, verifica se a entrada é `None`. Depois, o `re.sub()` remove caractere
 
 **Atividade 1 da disciplina de Gestão e Qualidade de Software.**
 
-
